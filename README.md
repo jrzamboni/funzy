@@ -1,4 +1,4 @@
 funzy
 =====
 
-ZOAGroup Funzy  project
+ZOAGroup Funzy  project.
